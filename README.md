@@ -16,4 +16,4 @@ Clicking the icon allows you to toggle between the two Like states.
 You can install the extension at the [offical
 Google Extension site][extension_site].
 
-[extension_site]: http://
+[extension_site]: https://chrome.google.com/extensions/detail/iigcbnildimfjnfnhpnkcnkafgplhkkl?hl=en
