@@ -1,0 +1,22 @@
+{
+  "name": "GateKeeper",
+  "version": "1.0",
+  "description": "GateKeeper automatically detects if a Facebook tab makes you Like a page before viewing content and shows the real content.",
+  "background_page": "background.html",
+  "content_scripts": [
+    { "matches": ["http://www.facebook.com/*"], "js": ["fb.js"] }
+  ],
+  "permissions": [
+  	"tabs"
+  ],
+  "page_action": {
+    "default_name": "GateKeeper",
+    "default_icon": "icon19.png",
+    "popup": "popup.html"
+  },
+  "icons": {
+	"16": "icon16.png",
+	"48": "icon48.png",
+	"128": "icon128.png"
+  }
+}
