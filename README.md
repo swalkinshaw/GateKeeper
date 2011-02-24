@@ -13,7 +13,10 @@ this has been done.
 
 Clicking the icon allows you to toggle between the two Like states.
 
+This extension is also useful for Facebook developers who need to easily 
+see and test both Like states.
+
 You can install the extension at the [offical
 Google Extension site][extension_site].
 
-[extension_site]: https://chrome.google.com/extensions/detail/iigcbnildimfjnfnhpnkcnkafgplhkkl?hl=en
+[extension_site]: http://goo.gl/AN1K9
